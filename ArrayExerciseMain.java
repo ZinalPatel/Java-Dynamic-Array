@@ -42,7 +42,7 @@ public class ArrayExerciseMain {
         System.out.println("Reverse: ");
         numbers.reverse();
 
-        //insertAt(index,item)
+        //insertAt()
         numbers.insertAt(100,3);
         System.out.println();
         System.out.println("After InsertAt: ");
